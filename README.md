@@ -1,8 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently working on: [Kontraption](https://github.com/illucc/Kontraption)
 - 🌱 I’m currently learning: how to java and or kotlin goodly
-- 📫 How to reach me: @illuc in discord
-- 😄 Pronouns: any
 - ⚡ Fun fact: :fishsticks:
 
 ### Github Stats

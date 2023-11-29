@@ -13,7 +13,7 @@ I am a 17 year old estonian student learning Programming and Computer Science ou
 ![illucc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=illucc&theme=nord&hide_border=true)
 ![illucc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illucc&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
-<!--[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/illucc/Kontraption&mode=dark&style=horizontal)](https://github.com/illucc/Kontraption)
+<!--[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/illucc/Kontraption&mode=dark)](https://github.com/illucc/Kontraption)
 -->
 ### Donating
 <a href="https://www.buymeacoffee.com/illuc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

@@ -1,7 +1,7 @@
 <!-- 
 For anyone reading feel free to use this as a template 👍
 -->
-
+<!--
 # Hi 👋, I'm illuc (/ilˈluːk/)
 I am a 17 year old estonian student learning Programming and Computer Science outside of school and I hope to some day learn it "officially". I occasionally play Volleyball and Basketball aaaand...... I have nothing else to write at the moment lol :p
 
@@ -26,4 +26,4 @@ I am a 17 year old estonian student learning Programming and Computer Science ou
 <a href="https://www.buymeacoffee.com/illuc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
 https://github.com/Ileriayo/markdown-badges
--->
+-->-->

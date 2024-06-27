@@ -4,7 +4,7 @@ For anyone reading feel free to use this as a template 👍
 https://home.illuc.xyz/-->
 
 # Hi 👋, I'm illuc (/ilˈluːk/)
-I am a 17 year old estonian student learning Programming and Computer Science outside of school and I hope to some day learn it "officially". I occasionally play Volleyball and Basketball aaaand...... I have nothing else to write at the moment lol :p
+I am a 18 year old estonian student learning Programming and Computer Science outside of school and I hope to some day learn it "officially". I occasionally play Volleyball and Basketball aaaand...... I have nothing else to write at the moment lol :p
 
 - 🔭 I’m currently working on: [Kontraption](https://github.com/illucc/Kontraption)
 - 🌱 I’m currently learning: how to java and or kotlin goodly
